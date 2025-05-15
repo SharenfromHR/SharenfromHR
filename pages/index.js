@@ -7,7 +7,7 @@ export default function Home() {
         <title>Sharen from HR</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="text-4xl font-bold mb-4">Welcome to Sharen from HR</h1>
+      <h1 className="text-4xl font-bold mb-4">You're through to, Sharen from HR</h1>
       <p className="text-lg max-w-xl mb-8">Equity education with attitude. Sharen explains your share plans, minus the HR waffle.</p>
       <form className="w-full max-w-md bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
         <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="confession">
