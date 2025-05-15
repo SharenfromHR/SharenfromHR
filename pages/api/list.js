@@ -4,7 +4,7 @@ export default async function handler(req, res) {
   const baseId = 'appMp0eQ6wPjDZ9y3';
   const table = 'Confessions';
 
-  const response = await fetch(`https://api.airtable.com/v0/${baseId}/${table}?sort[0][field]=Created&sort[0][direction]=desc`, {
+  const response = await fetch(`https://api.airtable.com/v0/${baseId}/${table}`, {
     headers: {
       Authorization: `Bearer ${token}`,
     }
