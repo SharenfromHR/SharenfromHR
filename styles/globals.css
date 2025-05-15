@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
-.font-orbitron {
-  font-family: 'Orbitron', sans-serif;
+
+.font-display {
+  font-family: 'Lilita One', cursive;
 }
